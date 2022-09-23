@@ -1,2 +1,2 @@
-SELECT Company
+SELECT *
 FROM [Unicorn_Companies$]
